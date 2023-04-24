@@ -1,3 +1,4 @@
 # CS475FullStackDevelopmentII
 
-[![Everything Is AWESOME](https://i.ytimg.com/vi/J4nJxWWuMmg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYFCA8KH8wDw==&rs=AOn4CLDDeu4ASl_dVZgHINjL-wHHpYStEQ)](https://www.youtube.com/watch?v=J4nJxWWuMmg "Everything Is AWESOME")
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=J4nJxWWuMmg![image](https://user-images.githubusercontent.com/87790745/233896751-2bbf9773-17c0-4ad5-ad8a-0d38ce36895a.png)
+)](https://www.youtube.com/watch?v=J4nJxWWuMmg "Everything Is AWESOME")
